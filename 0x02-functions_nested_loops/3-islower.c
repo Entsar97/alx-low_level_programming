@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _islower - entry point
  * Description: function that checks for lowercase character
