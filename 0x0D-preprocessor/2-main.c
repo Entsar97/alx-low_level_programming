@@ -1,9 +1,9 @@
-#include <dtdio.h>
+#include <stdio.h>
 
 /**
- * main - print name of of this source file
+ * main - prints the name of the file it was compiled from
  *
- * Return: Always 0.
+ * Return: 0 if success, 1 if error
  */
 int main(void)
 {
