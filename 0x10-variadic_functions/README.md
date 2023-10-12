@@ -1,0 +1,1 @@
+Entsar kambal
